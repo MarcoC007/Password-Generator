@@ -6,7 +6,7 @@
 * [Password-Generator]( https://marcoc007.github.io/Password-Generator/)
 
 ## Screenshots
-![](/assets/images/screencapture.png)
+![](/assets/images/screenshot.png)
 * Deployed application working.
 
 ## Licensed
