@@ -129,7 +129,7 @@ function generatePassword() {
     var pwd = "";
     
     if (abcUpperCaseArr && symbolsArr && numbersArr){
-        character += abcUpperCaseArr + symbolsArr + numbersArr;
+        character += abcUpperCase + symbols + numbers;
         
     }
     else if (abcUpperCaseArr && symbolsArr){
